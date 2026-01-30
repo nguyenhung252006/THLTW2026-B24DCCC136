@@ -48,6 +48,18 @@
 		icon: 'OrderedListOutlined',
 		component: './BaiTap01',
 	},
+	{
+		path: '/bai-tap-02',
+		name: 'Bài Tập 02',
+		icon: 'OrderedListOutlined',
+		component: './BaiTap02',
+	},
+	{
+		path: '/bai-tap-02/Dat-Hang',
+		component: './BaiTap02/BaiTap02-DatHang',
+	},
+
+
 
 	// DANH MUC HE THONG
 	// {
