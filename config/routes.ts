@@ -58,6 +58,19 @@
 		path: '/bai-tap-02/Dat-Hang',
 		component: './BaiTap02/BaiTap02-DatHang',
 	},
+	{
+		name: 'Game đoán số',
+		icon: 'OrderedListOutlined',
+		path: '/game-doan-so',
+		component: './Game',
+	},
+	{
+		name: 'Theo dõi tiến độ học tập',
+		icon: 'OrderedListOutlined',
+		path: '/tien-do',
+		component: './TienDoHocTap',
+	},
+
 
 
 
