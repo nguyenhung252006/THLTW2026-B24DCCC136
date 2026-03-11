@@ -70,6 +70,18 @@
 		path: '/tien-do',
 		component: './TienDoHocTap',
 	},
+	{
+		name: 'Oẳn Tù Tì',
+		icon: 'OrderedListOutlined',
+		path: '/oan-tu-ti',
+		component: './OanTuTi',
+	},
+	{
+		name: 'Quản Lý Đề Thi',
+		icon: 'OrderedListOutlined',
+		path: '/quan-ly-de-thi',
+		component: './QuanLyDeThi',
+	},
 
 
 
