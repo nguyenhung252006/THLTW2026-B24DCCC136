@@ -82,6 +82,30 @@
 		path: '/quan-ly-de-thi',
 		component: './QuanLyDeThi',
 	},
+	{
+		name: 'Quản Lý Tiệm Cắt Tóc',
+		icon: 'OrderedListOutlined',
+		path: '/quan-ly-tiem-cat-toc',
+		component: './QuanLyTiemCatToc',
+	},
+	{
+		path: '/quan-ly-tiem-cat-toc/nhan-vien',
+		component: './QuanLyTiemCatToc/NhanVien',
+	},
+	{
+		path: '/quan-ly-tiem-cat-toc/dat-lich',
+		component: './QuanLyTiemCatToc/DatLich',
+	},
+	{
+		path: '/quan-ly-tiem-cat-toc/danh-gia',
+		component: './QuanLyTiemCatToc/DanhGia',
+	},
+	{
+		path: '/quan-ly-tiem-cat-toc/bao-cao',
+		component: './QuanLyTiemCatToc/BaoCao',
+	},
+
+
 
 
 
