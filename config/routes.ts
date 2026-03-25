@@ -104,6 +104,12 @@
 		path: '/quan-ly-tiem-cat-toc/bao-cao',
 		component: './QuanLyTiemCatToc/BaoCao',
 	},
+	{
+		name: 'Quản Lý Văn Bằng Tốt Nghiệp',
+		icon: 'OrderedListOutlined',
+		path: '/quan-ly-van-bang-tot-nghiep',
+		component: './VanBangTotNghiep',
+	},
 
 
 
