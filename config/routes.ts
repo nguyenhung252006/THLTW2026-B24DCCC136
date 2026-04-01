@@ -110,6 +110,12 @@
 		path: '/quan-ly-van-bang-tot-nghiep',
 		component: './VanBangTotNghiep',
 	},
+	{
+		name: 'Quản Lý Câu Lạc Bộ',
+		icon: 'OrderedListOutlined',
+		path: '/quan-ly-cau-lac-bo',
+		component: './CauLacBo',
+	},
 
 
 
