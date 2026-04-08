@@ -116,6 +116,12 @@
 		path: '/quan-ly-cau-lac-bo',
 		component: './CauLacBo',
 	},
+	{
+		name: 'Quản Lý Du Lịch',
+		icon: 'OrderedListOutlined',
+		path: '/quan-ly-du-lich',
+		component: './DuLich',
+	},
 
 
 
