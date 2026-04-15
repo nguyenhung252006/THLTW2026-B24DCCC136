@@ -122,6 +122,12 @@
 		path: '/quan-ly-du-lich',
 		component: './DuLich',
 	},
+	{
+		name: 'Quản Lý Đơn Hàng',
+		icon: 'OrderedListOutlined',
+		path: '/quan-ly-don-hang',
+		component: './QuanLyDonHang',
+	},
 
 
 
