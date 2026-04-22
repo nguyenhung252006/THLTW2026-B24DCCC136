@@ -128,6 +128,12 @@
 		path: '/quan-ly-don-hang',
 		component: './QuanLyDonHang',
 	},
+	{
+		name: 'Blog Cá Nhân',
+		icon: 'OrderedListOutlined',
+		path: '/blog-ca-nhan',
+		component: './BlogCaNhan',
+	},
 
 
 
