@@ -134,6 +134,12 @@
 		path: '/blog-ca-nhan',
 		component: './BlogCaNhan',
 	},
+	{
+		name: 'Theo Dõi Sức Khỏe',
+		icon: 'OrderedListOutlined',
+		path: '/theo-doii-suc-khoe',
+		component: './TheoDoiSucKhoe',
+	},
 
 
 
